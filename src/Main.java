@@ -5,7 +5,7 @@ import java.util.LinkedList;
 //Creare un LinkedList con elementi e stamparlo in console.
 //Aggiungere un elemento al primo posto della lista e uno all'ultimo
 //Stampare la collezione aggiornata
-        public class Main {
+public class Main {
     public static void main(String[] args) {
 
         LinkedList<String> fruits = new LinkedList<String>();
